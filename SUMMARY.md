@@ -6,6 +6,7 @@
 
 * [Install Mysql](title/install-mysql.md)
 * [Install ElasticSearch](title/elasticsearch.md)
+* [Install MongoDB](title/mongodb.md)
 
 ## Spring
 
@@ -24,6 +25,4 @@
 * [vue 3.0](vue/vue-3.0.md)
 
 ## Database
-
-* [MongoDB](database/mongodb.md)
 
