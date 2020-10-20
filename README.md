@@ -1,7 +1,7 @@
 # intbird
 
 {% hint style="info" %}
-[http://intbird.net/](http://intbird.net/)
+[http://www.intbird.net/](http://intbird.net/)
 {% endhint %}
 
 {% hint style="success" %}
