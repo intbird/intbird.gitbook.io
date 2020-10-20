@@ -22,11 +22,11 @@
 
 | Service |
 | :--- |
-| https://intbird.net/maven/ |
-| https://intbird.net/nexus/ |
-| https://intbird.net/mongo/ |
-| https://intbird.net/mysql/ |
-| https://intbird.net/remote/ |
+| [https://intbird.net/maven/](https://intbird.net/maven/) |
+| [https://intbird.net/nexus/](https://intbird.net/nexus/) |
+| [https://intbird.net/mongo/](https://intbird.net/mongo/) |
+| [https://intbird.net/mysql/](https://intbird.net/mysql/) |
+| [https://intbird.net/remote/](https://intbird.net/remote/) |
 
 
 
