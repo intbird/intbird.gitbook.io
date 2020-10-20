@@ -1,6 +1,6 @@
 # Table of contents
 
-* [intbird](README.md)
+* [intbird.net](README.md)
 
 ## Linux <a id="title"></a>
 

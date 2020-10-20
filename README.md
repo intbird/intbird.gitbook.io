@@ -1,7 +1,11 @@
-# intbird
+---
+description: 'https://www.intbird.net/'
+---
 
-{% hint style="info" %}
-[http://www.intbird.net/](http://intbird.net/)
+# intbird.net
+
+{% hint style="success" %}
+[https://www.intbird.net/](http://intbird.net/)
 {% endhint %}
 
 {% hint style="success" %}
@@ -20,13 +24,14 @@
  [https://blog.csdn.net/intbird/](https://blog.csdn.net/intbird/)
 {% endhint %}
 
-
-
-{% embed url="https://intbird.net/maven/" caption="intbird-maven-repo" %}
-
-mongo 
-
- mysql 
+| Service |
+| :--- |
+| [https://intbird.net/mave](https://intbird.net/maven/)n/ |
+| [https://intbird.net/n](https://intbird.net/maven/)exus/ |
+| [https://intbird.net/](https://intbird.net/maven/)mongo[/](https://intbird.net/maven/)   |
+| [https://intbird.net/mysq](https://intbird.net/maven/)l/ |
+| [https://intbird.ne](https://intbird.net/maven/)/remote/ |
+| ... |
 
 
 
