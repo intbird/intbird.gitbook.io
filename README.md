@@ -1,4 +1,4 @@
-# intbird.net
+# https://intbird.net
 
 {% hint style="success" %}
 [https://www.intbird.net/](http://intbird.net/)
@@ -23,11 +23,10 @@
 | Service |
 | :--- |
 | [https://intbird.net/](https://intbird.net/maven/)maven/ |
-| [https://intbird.net](https://intbird.net/maven/)/nexus/ |
-| [https://intbird.net](https://intbird.net/maven/)/mongo/ |
-| [https://intbird.net](https://intbird.net/maven/)/mysql/ |
-| [https://intbird.ne](https://intbird.net/maven/)/remote/ |
-| ... |
+| [https://intbird.net/](https://intbird.net/maven/)nexus/ |
+| [https://intbird.net/](https://intbird.net/maven/)mongo/ |
+| [https://intbird.net/](https://intbird.net/maven/)mysql/ |
+| [https://intbird.net/](https://intbird.net/maven/)remote/ |
 
 
 
