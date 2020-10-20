@@ -1,6 +1,6 @@
-# https://intbird.net
+# intbird.net
 
-| hosts |
+| Hosts |
 | :--- |
 | [https://www.intbird.net/](https://www.intbird.net/) |
 | [https://intbird.atlassian.net](https://intbird.atlassian.net) |
