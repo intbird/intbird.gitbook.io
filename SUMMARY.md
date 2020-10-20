@@ -16,6 +16,7 @@
 
 ## Android
 
+* [FRPS](android/frps.md)
 * [Gradle](android/gradle.md)
 * [Samples](android/samples.md)
 
