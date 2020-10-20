@@ -1,7 +1,3 @@
----
-description: 'https://www.intbird.net/'
----
-
 # intbird.net
 
 {% hint style="success" %}
