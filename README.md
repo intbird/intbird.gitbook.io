@@ -2,11 +2,12 @@
 
 | Hosts |
 | :--- |
-| [https://www.intbird.net/](https://www.intbird.net/) |
+| [https://intbird.net](https://intbird.net/) |
+| [https://www.intbird.net](https://www.intbird.net/) |
 | [https://intbird.atlassian.net](https://intbird.atlassian.net) |
-| [https://gitlab.com/intbird/](https://gitlab.com/intbird/) |
+| [https://gitlab.com/intbird](https://gitlab.com/intbird/) |
 | [https://github.com/intbird](https://github.com/intbird) |
-| [https://blog.csdn.net/intbird/](https://blog.csdn.net/intbird/) |
+| [https://blog.csdn.net/intbird](https://blog.csdn.net/intbird/) |
 
 | Service |
 | :--- |
