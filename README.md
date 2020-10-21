@@ -3,7 +3,6 @@
 | Hosts |
 | :--- |
 | [https://intbird.net](https://intbird.net/) |
-| [https://www.intbird.net](https://www.intbird.net/) |
 | [https://intbird.atlassian.net](https://intbird.atlassian.net) |
 | [https://gitlab.com/intbird](https://gitlab.com/intbird/) |
 | [https://github.com/intbird](https://github.com/intbird) |
@@ -17,6 +16,7 @@
 | [https://intbird.net/mysql/](https://intbird.net/mysql/) |
 | [https://intbird.net/remote/](https://intbird.net/remote/) |
 | [https://intbird.net/spring/](https://intbird.net/spring/) |
+| [https://intbird.net/express/](https://intbird.net/express/) |
 
 
 
