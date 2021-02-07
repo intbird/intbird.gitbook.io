@@ -1,4 +1,4 @@
-# intbird.net
+# intbird.gitbook.io
 
 | Hosts |
 | :--- |
