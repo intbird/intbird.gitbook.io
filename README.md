@@ -2,7 +2,7 @@
 description: 'https://intbird.net'
 ---
 
-# intbird.gitbook.io
+# https://intbird.net
 
 ## [ https://intbird.net](https://intbird.net/#/notebook)
 
