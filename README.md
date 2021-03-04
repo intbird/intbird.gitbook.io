@@ -1,57 +1,22 @@
+---
+description: 'https://intbird.net'
+---
+
 # intbird.gitbook.io
 
-| Hosts |
-| :--- |
+## [ https://intbird.net](https://intbird.net/#/notebook)
+
+{% hint style="info" %}
+[https://intbird.net/\#/notebook](https://intbird.net/#/notebook)
+{% endhint %}
+
+{% hint style="info" %}
+[https://wordpress.intbird.net](https://wordpress.intbird.net/)
+{% endhint %}
+
+{% hint style="info" %}
+[https://intbird.atlassian.net/](https://intbird.atlassian.net/)
+{% endhint %}
 
 
-```text
-
-https://intbird.net
-
-
-https://intbird.atlassian.net
-
-
-https://gitlab.com/intbird
-
-
-https://github.com/intbird
-
-
-https://blog.csdn.net/intbird
-
-```
-
-
-
-| Service |
-| :--- |
-
-
-```text
-
-https://intbird.net/maven/
-
-
-https://intbird.net/nexus/
-
-
-https://intbird.net/mongo/
-
-
-https://intbird.net/mysql/
-
-
-https://intbird.net/remote/
-
-
-https://intbird.net/spring/
-
-
-https://intbird.net/express/
-
-
-https://intbird.net/jenkins/
-
-```
 
