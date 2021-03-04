@@ -1,4 +1,4 @@
 # Table of contents
 
-* [intbird.gitbook.io](README.md)
+* [https://intbird.net](README.md)
 

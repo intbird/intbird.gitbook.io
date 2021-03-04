@@ -1,6 +1,2 @@
----
-description: 'https://intbird.net'
----
-
-# intbird.gitbook.io
+# https://intbird.net
 
